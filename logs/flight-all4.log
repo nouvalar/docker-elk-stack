@@ -1,0 +1,136 @@
+INFO:     Started server process [1034250]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:9308 (Press CTRL+C to quit)
+INFO:     Started server process [1076683]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:9308 (Press CTRL+C to quit)
+nohup: ignoring input
+INFO:     Started server process [1330684]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:9308 (Press CTRL+C to quit)
+nohup: ignoring input
+INFO:     Uvicorn running on http://0.0.0.0:9308 (Press CTRL+C to quit)
+INFO:     Started parent process [1331405]
+INFO:     Started server process [1331410]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1331411]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1331409]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1331407]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1331408]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     192.168.30.175:60202 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     Received SIGHUP, restarting processes.
+INFO:     Waiting for child process [1331407]
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:96: UserWarning: resource_tracker: process died unexpectedly, relaunching.  Some resources might leak.
+  warnings.warn('resource_tracker: process died unexpectedly, '
+INFO:     Waiting for child process [1331408]
+INFO:     Waiting for child process [1331409]
+INFO:     Waiting for child process [1331410]
+INFO:     Waiting for child process [1331411]
+INFO:     Started server process [1334006]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1333990]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1334003]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1333995]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [1333999]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     192.168.30.175:54652 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:47818 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40316 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:47198 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:39660 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:49974 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:45522 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:52186 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:41598 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:44554 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:59976 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:52866 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:56936 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:37078 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:52630 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40834 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:37458 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:41214 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:43778 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:48460 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:35424 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40144 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:34614 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:55638 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:54976 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:54246 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40112 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:43242 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:55572 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:38482 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:36936 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:41122 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:58910 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:58220 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:38290 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:56234 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:53046 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:54054 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:36470 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:37032 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:44462 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:56042 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:54120 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:34768 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40684 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:45076 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:56226 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:60536 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:49330 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:50840 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:43042 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:53420 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:34664 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:57608 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:57958 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:57796 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:52778 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:60130 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:56496 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:51712 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:44234 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:47754 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:55538 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:46178 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:43460 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:50002 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:41502 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:55562 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:38250 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:55406 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:42840 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40072 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:45190 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:58394 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:60448 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:47764 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:41470 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:36598 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:40286 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:52960 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
+INFO:     192.168.30.175:55606 - "POST /CAE/bridging/flightall HTTP/1.1" 200 OK
